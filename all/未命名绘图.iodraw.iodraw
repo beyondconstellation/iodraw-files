@@ -52,7 +52,7 @@
         <mxCell id="eiHL58g6cZKl01pcuZeM-12" value="接收端：两阶段同步" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eiHL58g6cZKl01pcuZeM-14" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eiHL58g6cZKl01pcuZeM-14" value="信道估计、信道均衡" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
