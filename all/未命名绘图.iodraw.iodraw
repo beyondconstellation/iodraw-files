@@ -44,10 +44,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-10" value="残余频偏估计" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="570" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-12" value="总频偏校正，最终定时和数据提取" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="570" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
