@@ -61,10 +61,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eiHL58g6cZKl01pcuZeM-16" value="解调、译码" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiHL58g6cZKl01pcuZeM-18" value="计算信噪比" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eiHL58g6cZKl01pcuZeM-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eiHL58g6cZKl01pcuZeM-20" target="eiHL58g6cZKl01pcuZeM-0">
           <mxGeometry relative="1" as="geometry" />
