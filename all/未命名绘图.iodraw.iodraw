@@ -40,8 +40,14 @@
         <mxCell id="qrUOGtvpRKO9vQpvn30q-8" value="小数+整数频偏联合校正" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qrUOGtvpRKO9vQpvn30q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qrUOGtvpRKO9vQpvn30q-10" target="qrUOGtvpRKO9vQpvn30q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-10" value="残余频偏估计" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrUOGtvpRKO9vQpvn30q-12" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="910" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
