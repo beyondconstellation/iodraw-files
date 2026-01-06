@@ -16,8 +16,14 @@
         <mxCell id="eiHL58g6cZKl01pcuZeM-0" value="卷积编码" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eiHL58g6cZKl01pcuZeM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eiHL58g6cZKl01pcuZeM-2" target="eiHL58g6cZKl01pcuZeM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eiHL58g6cZKl01pcuZeM-2" value="QPSK调制" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eiHL58g6cZKl01pcuZeM-4" value="组OFDM符号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
