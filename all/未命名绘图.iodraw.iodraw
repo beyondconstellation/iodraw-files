@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-2" value="小数频偏粗校正" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="270" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qrUOGtvpRKO9vQpvn30q-4" target="qrUOGtvpRKO9vQpvn30q-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-4" value="CP相关精定时" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="340" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qrUOGtvpRKO9vQpvn30q-6" target="qrUOGtvpRKO9vQpvn30q-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-6" value="整数频偏估计" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qrUOGtvpRKO9vQpvn30q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qrUOGtvpRKO9vQpvn30q-8" target="qrUOGtvpRKO9vQpvn30q-10">
           <mxGeometry relative="1" as="geometry" />
