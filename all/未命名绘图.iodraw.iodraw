@@ -28,8 +28,14 @@
         <mxCell id="eiHL58g6cZKl01pcuZeM-4" value="组OFDM符号" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eiHL58g6cZKl01pcuZeM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eiHL58g6cZKl01pcuZeM-6" target="eiHL58g6cZKl01pcuZeM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eiHL58g6cZKl01pcuZeM-6" value="加循环前缀码" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eiHL58g6cZKl01pcuZeM-8" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
