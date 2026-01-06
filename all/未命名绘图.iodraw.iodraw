@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eiHL58g6cZKl01pcuZeM-20" value="生成数据比特" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="205" width="80" height="50" as="geometry" />
+          <mxGeometry x="70" y="202.5" width="90" height="57.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
