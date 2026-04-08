@@ -28,10 +28,10 @@
         <mxCell id="U8d4x5SEyopAprdVef36-8" value="5G 公网传输" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="102" y="459" width="148" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-9" value="视频解压模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="U8d4x5SEyopAprdVef36-9" value="云端" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="98" y="608" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-10" value="云端" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="U8d4x5SEyopAprdVef36-10" value="视频解压模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="98" y="706" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-11" value="三维重建引擎" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
