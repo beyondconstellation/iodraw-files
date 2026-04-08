@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="929" width="312" height="197" as="geometry" />
         </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-2" value="云端服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63" y="583" width="226" height="296" as="geometry" />
+          <mxGeometry x="67" y="590" width="226" height="296" as="geometry" />
         </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-3" value="网络端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="67" y="434" width="218" height="99" as="geometry" />
