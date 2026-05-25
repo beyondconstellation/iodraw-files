@@ -16,6 +16,9 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="116" y="1700" width="275" height="591" as="geometry" />
         </mxCell>
+        <mxCell id="5Y65irqO9ebKroMh6wmu-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-3" target="5Y65irqO9ebKroMh6wmu-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="Sender" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206" y="1150" width="415" height="493" as="geometry" />
         </mxCell>
@@ -147,7 +150,7 @@
           <mxGeometry x="326.5" y="1710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-47" value="接收端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="336.5" y="1720" width="60" height="30" as="geometry" />
+          <mxGeometry x="656.5" y="1710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
