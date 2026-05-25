@@ -31,12 +31,6 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-8" value="上变频/射频发射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="366" y="1569" width="180" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-9" value="AWGN 信道" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="392" y="1773" width="129" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-10" value="单音干扰 + AWGN" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="571" y="1751" width="173" height="173" as="geometry" />
-        </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-11" value="多径信道 (抽头延迟线) + AWGN" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="85" y="1718" width="240" height="240" as="geometry" />
         </mxCell>
@@ -96,16 +90,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8" target="5Y65irqO9ebKroMh6wmu-9">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8" target="5Y65irqO9ebKroMh6wmu-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="658" y="1643" />
-            </Array>
+            <mxPoint x="456.5" y="1773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8" target="5Y65irqO9ebKroMh6wmu-11">
@@ -115,18 +103,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.11;entryY=-0.01;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-9" target="5Y65irqO9ebKroMh6wmu-12">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.11;entryY=-0.01;rounded=0;" edge="1" parent="1" target="5Y65irqO9ebKroMh6wmu-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="457" y="2033" />
             </Array>
+            <mxPoint x="456.5" y="1902" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-10" target="5Y65irqO9ebKroMh6wmu-12">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.91;entryY=-0.01;rounded=0;" edge="1" parent="1" target="5Y65irqO9ebKroMh6wmu-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="658" y="2033" />
             </Array>
+            <mxPoint x="657.5" y="1924" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-12" target="5Y65irqO9ebKroMh6wmu-13">
