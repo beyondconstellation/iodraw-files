@@ -11,12 +11,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-1" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="282.5" y="1730" width="275" height="591" as="geometry" />
+          <mxGeometry x="282.5" y="1770" width="275" height="591" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.877;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-3" target="5Y65irqO9ebKroMh6wmu-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="1728" />
+              <mxPoint x="420" y="1768" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,7 +105,7 @@
           <mxGeometry x="557.5" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-46" value="接收端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="489" y="1720" width="60" height="30" as="geometry" />
+          <mxGeometry x="492.5" y="1780" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-51" value="多径AWGN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="454" y="1670" width="60" height="30" as="geometry" />
