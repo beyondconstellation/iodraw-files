@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5Y65irqO9ebKroMh6wmu-45" value="Receiver (Multipath, RAKE)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-45" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="1700" width="275" height="591" as="geometry" />
         </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="U8d4x5SEyopAprdVef36-9" edge="1">
@@ -13,7 +13,7 @@
             <mxPoint x="175.9999999999999" y="508" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-1" value="Receiver (Multipath, RAKE)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-1" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="116" y="1700" width="275" height="591" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="Sender" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
