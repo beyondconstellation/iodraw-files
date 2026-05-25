@@ -56,10 +56,10 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-13" value="RRC 匹配滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="499.5" y="1818" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-14" value="解扩 (×本地 PN 码)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-14" value="解扩" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="480.5" y="1917" width="194" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-15" value="相关积分 (Lc 码片)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-15" value="相关积分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="481.5" y="2015" width="193" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-16" value="判决" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
