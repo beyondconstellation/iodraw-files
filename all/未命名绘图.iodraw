@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ROHMXmHwC2akXvUT2KX9">
-    <mxGraphModel dx="1377" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1126" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,7 +74,7 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-19" value="RRC 匹配滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="174" y="1823" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-20" value="各径 (对齐各径延迟)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-20" value="对齐各径延迟" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="151" y="1922" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-21" value="分别解扩相关" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
