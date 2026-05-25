@@ -65,9 +65,6 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-16" value="判决" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="531.5" y="2114" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-17" value="恢复比特" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="515.5" y="2212" width="124" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-18" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="191" y="1725" width="124" height="49" as="geometry" />
         </mxCell>
@@ -122,11 +119,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-15" target="5Y65irqO9ebKroMh6wmu-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-16" target="5Y65irqO9ebKroMh6wmu-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
