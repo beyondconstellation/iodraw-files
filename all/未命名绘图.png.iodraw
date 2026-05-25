@@ -37,7 +37,7 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-19" value="RRC 匹配滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="540" y="1510" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-20" value="对齐各径延迟" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-20" value="能量累加" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="540" y="1330" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-21" value="序列解扩" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
