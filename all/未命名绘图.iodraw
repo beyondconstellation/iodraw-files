@@ -17,22 +17,22 @@
           <mxGeometry x="116" y="1700" width="275" height="591" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="Sender" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="249.5" y="1150" width="415" height="493" as="geometry" />
+          <mxGeometry x="206" y="1150" width="415" height="493" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-4" value="信息比特 b(k)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="378" y="1175" width="158" height="49" as="geometry" />
+          <mxGeometry x="334.5" y="1175" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-5" value="BPSK 映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="391" y="1274" width="132" height="49" as="geometry" />
+          <mxGeometry x="347.5" y="1274" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-6" value="PN 码扩频 (×Lc)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1372" width="173" height="49" as="geometry" />
+          <mxGeometry x="326.5" y="1372" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-7" value="RRC 成形滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="378" y="1471" width="157" height="49" as="geometry" />
+          <mxGeometry x="334.5" y="1471" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-8" value="上变频/射频发射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="366" y="1569" width="180" height="49" as="geometry" />
+          <mxGeometry x="322.5" y="1569" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-12" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="515.5" y="1720" width="124" height="49" as="geometry" />
@@ -141,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-44" value="发送端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="601" y="1160" width="60" height="30" as="geometry" />
+          <mxGeometry x="557.5" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
