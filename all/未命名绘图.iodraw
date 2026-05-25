@@ -35,7 +35,7 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="Sender" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="206" y="1150" width="415" height="493" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-4" value="信息比特 b(k)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-4" value="信息比特 b(k)" style="whiteSpace=wrap;strokeWidth=2;fontColor=none;noLabel=1;" vertex="1" parent="1">
           <mxGeometry x="334.5" y="1175" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-5" value="BPSK 映射" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
