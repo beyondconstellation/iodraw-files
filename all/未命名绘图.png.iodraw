@@ -28,9 +28,12 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-7" value="RRC 成形滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="158.5" y="1541" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vf-2Dm_9N2DmSSC18psx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8">
+        <mxCell id="vf-2Dm_9N2DmSSC18psx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8" target="5Y65irqO9ebKroMh6wmu-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="236.8571428571429" y="1770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="237" y="1750" />
+              <mxPoint x="607" y="1750" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-8" value="上变频/射频发射" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
