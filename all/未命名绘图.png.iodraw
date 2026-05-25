@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-1" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="116" y="1700" width="275" height="591" as="geometry" />
+          <mxGeometry x="282.5" y="1710" width="275" height="591" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.877;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-3" target="5Y65irqO9ebKroMh6wmu-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -19,15 +19,6 @@
               <mxPoint x="357" y="1660" />
               <mxPoint x="357" y="1660" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="470" y="1670" />
-              <mxPoint x="470" y="1670" />
-            </Array>
-            <mxPoint x="470.0588235294117" y="1700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="Sender" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
@@ -49,22 +40,22 @@
           <mxGeometry x="322.5" y="1569" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-18" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="191" y="1725" width="124" height="49" as="geometry" />
+          <mxGeometry x="357.5" y="1735" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-19" value="RRC 匹配滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="174" y="1823" width="157" height="49" as="geometry" />
+          <mxGeometry x="340.5" y="1833" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-20" value="对齐各径延迟" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="151" y="1922" width="205" height="49" as="geometry" />
+          <mxGeometry x="317.5" y="1932" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-21" value="分别解扩相关" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="175" y="2020" width="156" height="49" as="geometry" />
+          <mxGeometry x="341.5" y="2030" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-22" value="RAKE 加权合并" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="170" y="2119" width="165" height="49" as="geometry" />
+          <mxGeometry x="336.5" y="2129" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-23" value="判决" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="207" y="2217" width="92" height="49" as="geometry" />
+          <mxGeometry x="373.5" y="2227" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-4" target="5Y65irqO9ebKroMh6wmu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -115,16 +106,10 @@
           <mxGeometry x="557.5" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-46" value="接收端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="1710" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-47" value="接收端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="650" y="1710" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-50" value="单音干扰AWGN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="497.5" y="1660" width="92.5" height="30" as="geometry" />
+          <mxGeometry x="489" y="1720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-51" value="多径AWGN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="287.5" y="1660" width="60" height="30" as="geometry" />
+          <mxGeometry x="454" y="1670" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
