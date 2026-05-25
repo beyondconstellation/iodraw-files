@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ROHMXmHwC2akXvUT2KX9">
-    <mxGraphModel dx="988" dy="81" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="823" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-1" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="282.5" y="1770" width="275" height="591" as="geometry" />
+          <mxGeometry x="490" y="1122" width="275" height="591" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="`" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="67" y="1220" width="340" height="493" as="geometry" />
@@ -35,22 +35,22 @@
           <mxGeometry x="146.5" y="1639" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-18" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="358" y="1770.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="565.5" y="1122.5" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-19" value="RRC 匹配滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="341.5" y="1860" width="157" height="49" as="geometry" />
+          <mxGeometry x="549" y="1212" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-20" value="对齐各径延迟" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="1932" width="205" height="49" as="geometry" />
+          <mxGeometry x="525" y="1284" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-21" value="分别解扩相关" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="341.5" y="2030" width="156" height="49" as="geometry" />
+          <mxGeometry x="549" y="1382" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-22" value="RAKE 加权合并" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="336.5" y="2129" width="165" height="49" as="geometry" />
+          <mxGeometry x="544" y="1481" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-23" value="判决" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="373.5" y="2227" width="92" height="49" as="geometry" />
+          <mxGeometry x="581" y="1579" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-4" target="5Y65irqO9ebKroMh6wmu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -101,7 +101,7 @@
           <mxGeometry x="341.5" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-46" value="接收端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="492.5" y="1780" width="60" height="30" as="geometry" />
+          <mxGeometry x="700" y="1132" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
