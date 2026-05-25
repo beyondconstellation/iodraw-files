@@ -41,7 +41,7 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-5" value="BPSK 映射" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="347.5" y="1274" width="132" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-6" value="PN 码扩频 (×Lc)" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-6" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="326.5" y="1372" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-7" value="RRC 成形滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
