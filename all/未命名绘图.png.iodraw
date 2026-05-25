@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ROHMXmHwC2akXvUT2KX9">
-    <mxGraphModel dx="1235" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="81" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,26 +13,26 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-1" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="282.5" y="1770" width="275" height="591" as="geometry" />
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="Sender" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="206" y="1150" width="415" height="493" as="geometry" />
+        <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="`" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1220" width="415" height="493" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-4" value="信息比特 b(k)" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="334.5" y="1175" width="158" height="49" as="geometry" />
+          <mxGeometry x="158.5" y="1245" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-5" value="PN 码扩频 (×Lc)" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="347.5" y="1274" width="132" height="49" as="geometry" />
+          <mxGeometry x="171.5" y="1344" width="132" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-6" value="BPSK 映射" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="326.5" y="1372" width="173" height="49" as="geometry" />
+          <mxGeometry x="150.5" y="1442" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-7" value="RRC 成形滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="334.5" y="1471" width="157" height="49" as="geometry" />
+          <mxGeometry x="158.5" y="1541" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vf-2Dm_9N2DmSSC18psx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8" target="5Y65irqO9ebKroMh6wmu-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-8" value="上变频/射频发射" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="322.5" y="1569" width="180" height="49" as="geometry" />
+          <mxGeometry x="146.5" y="1639" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-18" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="358" y="1770.5" width="124" height="49" as="geometry" />
@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-44" value="发送端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="557.5" y="1160" width="60" height="30" as="geometry" />
+          <mxGeometry x="381.5" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-46" value="接收端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="492.5" y="1780" width="60" height="30" as="geometry" />
