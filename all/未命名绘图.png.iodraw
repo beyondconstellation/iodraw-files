@@ -83,6 +83,9 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-46" value="接收端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="700" y="1132" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vf-2Dm_9N2DmSSC18psx-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1560" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
