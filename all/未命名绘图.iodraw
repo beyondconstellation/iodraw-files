@@ -7,21 +7,6 @@
         <mxCell id="U8d4x5SEyopAprdVef36-1" value="用户端" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="929" width="312" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-2" value="云端服务器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="67" y="590" width="226" height="296" as="geometry" />
-        </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-3" value="网络端" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="67" y="434" width="218" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-5" value="信息比特" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="122" y="45" width="108" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-6" value="计算板/边缘计算" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="86" y="166" width="180" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-10" value="视频解压模块" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="98" y="706" width="156" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-11" value="三维重建" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="98" y="805" width="156" height="49" as="geometry" />
         </mxCell>
@@ -31,40 +16,23 @@
         <mxCell id="U8d4x5SEyopAprdVef36-13" value="Web 浏览器&#xa;可视化界面" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="55" y="1052" width="242" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-14" value="比特流" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="U8d4x5SEyopAprdVef36-5" target="U8d4x5SEyopAprdVef36-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-15" value="DCVC 深度视频压缩" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="U8d4x5SEyopAprdVef36-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="175.9999999999999" y="288" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-16" value="无线信号" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="175.9999999999999" y="337" as="sourcePoint" />
-            <mxPoint x="175.9999999999999" y="459" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="U8d4x5SEyopAprdVef36-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="175.9999999999999" y="508" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" target="U8d4x5SEyopAprdVef36-10" edge="1">
+        <mxCell id="U8d4x5SEyopAprdVef36-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="176" y="657" as="sourcePoint" />
+            <mxPoint x="176" y="706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U8d4x5SEyopAprdVef36-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="U8d4x5SEyopAprdVef36-10" target="U8d4x5SEyopAprdVef36-11" edge="1">
+        <mxCell id="U8d4x5SEyopAprdVef36-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" target="U8d4x5SEyopAprdVef36-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="176" y="755" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="U8d4x5SEyopAprdVef36-11" target="U8d4x5SEyopAprdVef36-12" edge="1">
