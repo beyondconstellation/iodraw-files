@@ -44,10 +44,10 @@
           <mxGeometry x="528.75" y="1500" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-22" value="RAKE 加权合并" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="535" y="1245" width="165" height="49" as="geometry" />
+          <mxGeometry x="519.75" y="1310" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-23" value="抽样判决" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="554" y="1162" width="92" height="49" as="geometry" />
+          <mxGeometry x="554" y="1230" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-4" target="5Y65irqO9ebKroMh6wmu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
