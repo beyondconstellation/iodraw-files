@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5Y65irqO9ebKroMh6wmu-45" value="Receiver (Multipath, RAKE)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1700" width="275" height="591" as="geometry" />
+        </mxCell>
         <mxCell id="U8d4x5SEyopAprdVef36-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" target="U8d4x5SEyopAprdVef36-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -32,22 +35,22 @@
           <mxGeometry x="366" y="1569" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-12" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="493" y="2058" width="124" height="49" as="geometry" />
+          <mxGeometry x="515.5" y="1720" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-13" value="RRC 匹配滤波" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="477" y="2156" width="157" height="49" as="geometry" />
+          <mxGeometry x="499.5" y="1818" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-14" value="解扩 (×本地 PN 码)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="458" y="2255" width="194" height="49" as="geometry" />
+          <mxGeometry x="480.5" y="1917" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-15" value="相关积分 (Lc 码片)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="459" y="2353" width="193" height="49" as="geometry" />
+          <mxGeometry x="481.5" y="2015" width="193" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-16" value="判决" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="509" y="2452" width="92" height="49" as="geometry" />
+          <mxGeometry x="531.5" y="2114" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-17" value="恢复比特" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="493" y="2550" width="124" height="49" as="geometry" />
+          <mxGeometry x="515.5" y="2212" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-18" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="191" y="1725" width="124" height="49" as="geometry" />
@@ -139,9 +142,6 @@
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-44" value="发送端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="601" y="1160" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-45" value="Receiver (Multipath, RAKE)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1700" width="275" height="591" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
