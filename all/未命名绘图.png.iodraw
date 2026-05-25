@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="ROHMXmHwC2akXvUT2KX9">
-    <mxGraphModel dx="114" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,14 +54,20 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-20" value="能量累加" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="528.75" y="1390" width="149.25" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="vf-2Dm_9N2DmSSC18psx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-21" target="5Y65irqO9ebKroMh6wmu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-21" value="序列解扩" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="527.75" y="1470" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vf-2Dm_9N2DmSSC18psx-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-22" target="5Y65irqO9ebKroMh6wmu-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-22" value="RAKE 加权合并" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="523.25" y="1310" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-23" value="抽样判决" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="560.75" y="1230" width="92" height="49" as="geometry" />
+          <mxGeometry x="559.75" y="1230" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-4" target="5Y65irqO9ebKroMh6wmu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
