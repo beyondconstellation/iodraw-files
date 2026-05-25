@@ -143,6 +143,9 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-44" value="发送端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="1160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5Y65irqO9ebKroMh6wmu-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1780" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
