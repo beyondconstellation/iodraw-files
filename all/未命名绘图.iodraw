@@ -17,7 +17,7 @@
           <mxGeometry x="50" y="1693" width="729" height="290" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-3" value="Sender" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="163" y="1150" width="532" height="493" as="geometry" />
+          <mxGeometry x="249.5" y="1150" width="415" height="493" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-4" value="信息比特 b(k)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="378" y="1175" width="158" height="49" as="geometry" />
@@ -186,6 +186,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5Y65irqO9ebKroMh6wmu-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
