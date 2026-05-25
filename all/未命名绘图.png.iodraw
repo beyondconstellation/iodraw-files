@@ -28,14 +28,11 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-7" value="RRC 成形滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="158.5" y="1541" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="vf-2Dm_9N2DmSSC18psx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5Y65irqO9ebKroMh6wmu-8" target="5Y65irqO9ebKroMh6wmu-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-8" value="上变频/射频发射" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="146.5" y="1639" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-18" value="接收信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="565.5" y="1122.5" width="124" height="49" as="geometry" />
+          <mxGeometry x="636" y="1050" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-19" value="RRC 匹配滤波" style="whiteSpace=wrap;strokeWidth=2;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="549" y="1212" width="157" height="49" as="geometry" />
@@ -78,16 +75,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y65irqO9ebKroMh6wmu-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-19" target="5Y65irqO9ebKroMh6wmu-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-20" target="5Y65irqO9ebKroMh6wmu-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=19;" parent="1" source="5Y65irqO9ebKroMh6wmu-21" target="5Y65irqO9ebKroMh6wmu-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
