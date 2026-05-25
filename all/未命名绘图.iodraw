@@ -160,6 +160,9 @@
         <mxCell id="5Y65irqO9ebKroMh6wmu-50" value="单音干扰AWGN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="497.5" y="1660" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5Y65irqO9ebKroMh6wmu-51" value="多径AWGN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="1660" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
