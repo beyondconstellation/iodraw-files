@@ -187,7 +187,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y65irqO9ebKroMh6wmu-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5Y65irqO9ebKroMh6wmu-44" value="发送端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="1380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
