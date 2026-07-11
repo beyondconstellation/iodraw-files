@@ -7,11 +7,14 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-1" value="研发启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="86" y="20" width="124" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-2" target="VJ6Af0bl9wwzcT1XQdpL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-2" value="应用场景与&#xa;需求分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80.5" y="119" width="134" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-3" value="系统指标确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="217" width="138" height="49" as="geometry" />
+          <mxGeometry x="78.5" y="217" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-4" value="总体架构设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="316" width="137.5" height="49" as="geometry" />
@@ -65,11 +68,6 @@
           <mxGeometry x="86" y="2101" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-1" target="VJ6Af0bl9wwzcT1XQdpL-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-2" target="VJ6Af0bl9wwzcT1XQdpL-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
