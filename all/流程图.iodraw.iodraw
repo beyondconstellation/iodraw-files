@@ -16,9 +16,6 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-3" value="系统指标确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="81.75" y="180" width="131.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-4" value="总体架构设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82.5" y="260" width="130" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-5" value="核心模块开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="69.5" y="340" width="156" height="49" as="geometry" />
         </mxCell>
@@ -68,16 +65,6 @@
           <mxGeometry x="86" y="2101" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-1" target="VJ6Af0bl9wwzcT1XQdpL-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-3" target="VJ6Af0bl9wwzcT1XQdpL-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-4" target="VJ6Af0bl9wwzcT1XQdpL-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
