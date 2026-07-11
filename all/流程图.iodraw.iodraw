@@ -25,9 +25,6 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-6" value="DCVC视频压缩编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="350" width="150" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-7" value="压缩效果验证&#xa;（压缩比≥2000:1、码率≤0.6 Mbps）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="72.5" y="430" width="148" height="84" as="geometry" />
-        </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="压缩感知抗干扰传输设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="768" width="236" height="49" as="geometry" />
         </mxCell>
@@ -77,14 +74,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-6" target="VJ6Af0bl9wwzcT1XQdpL-7">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146.5" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-27" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-7" target="VJ6Af0bl9wwzcT1XQdpL-8">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-27" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="VJ6Af0bl9wwzcT1XQdpL-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="146.5" y="514" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-8" target="VJ6Af0bl9wwzcT1XQdpL-9">
@@ -146,6 +145,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-53" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
