@@ -11,7 +11,7 @@
           <mxGeometry x="80.5" y="119" width="134" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-3" value="系统指标确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="217" width="156" height="49" as="geometry" />
+          <mxGeometry x="70" y="217" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-4" value="总体架构设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="316" width="156" height="49" as="geometry" />
