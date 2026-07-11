@@ -7,20 +7,20 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-45" value="研发启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-46" value="需求分析和&lt;div&gt;指标确定&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
