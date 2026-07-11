@@ -159,6 +159,9 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-56" value="链路可靠性验证&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（传输速率、抗干扰指标达标）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65.25" y="760" width="165.5" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-59" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230.75" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
