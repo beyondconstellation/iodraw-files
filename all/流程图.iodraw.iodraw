@@ -163,7 +163,7 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-62" target="VJ6Af0bl9wwzcT1XQdpL-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-62" value="系统指标确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-62" value="&#xa;自适应抽帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="338.25" y="110" width="131.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-63" value="核心模块开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
