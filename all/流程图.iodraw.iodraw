@@ -25,8 +25,8 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-6" value="DCVC视频压缩编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="72" y="360" width="150" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="压缩感知抗干扰传输设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="570" width="236" height="49" as="geometry" />
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="抗干扰物理层传输算法设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="30" y="585" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-9" value="USRP无线收发联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="866" width="192" height="49" as="geometry" />
