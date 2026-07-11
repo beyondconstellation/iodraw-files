@@ -25,7 +25,7 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-6" value="DCVC视频压缩编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="350" width="150" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-7" value="压缩效果验证&#xa;（码率、PSNR、细节保真度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-7" value="压缩效果验证&#xa;（压缩比≥2000:1、码率≤0.6 Mbps）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="430" width="148" height="84" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="压缩感知抗干扰传输设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
