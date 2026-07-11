@@ -11,7 +11,7 @@
           <mxGeometry x="80.5" y="119" width="134" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-3" value="系统指标确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="217" width="140" height="49" as="geometry" />
+          <mxGeometry x="80" y="217" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-4" value="总体架构设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="70" y="316" width="156" height="49" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="70" y="414" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-6" value="DCVC视频压缩编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="51" y="513" width="194" height="49" as="geometry" />
+          <mxGeometry x="70" y="513" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-7" value="压缩效果验证&#xa;（码率、PSNR、细节保真度）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="611" width="256" height="84" as="geometry" />
