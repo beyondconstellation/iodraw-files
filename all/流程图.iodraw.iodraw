@@ -209,13 +209,22 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-80" value="原型验证平台实物联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="337.25" y="590" width="131.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-81" value="核心模块开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-81" value="工程化部署评估&#xa;（Orin平台、5G专网、应急通信网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="337.75" y="680" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-76" target="VJ6Af0bl9wwzcT1XQdpL-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-84" target="VJ6Af0bl9wwzcT1XQdpL-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-84" value="原型验证平台实物联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347.25" y="600" width="131.5" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-85" value="工程化部署评估&#xa;（Orin平台、5G专网、应急通信网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347.75" y="690" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
