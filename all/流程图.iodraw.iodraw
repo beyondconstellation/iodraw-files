@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-53" value="压缩效果验证&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（压缩比≥2000:1、码率≤0.6 Mbps）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="194" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="440" width="184" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
