@@ -23,7 +23,7 @@
           <mxGeometry x="82" y="280" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-6" value="DCVC视频压缩编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="73" y="360" width="150" height="49" as="geometry" />
+          <mxGeometry x="72" y="360" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="压缩感知抗干扰传输设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="768" width="236" height="49" as="geometry" />
