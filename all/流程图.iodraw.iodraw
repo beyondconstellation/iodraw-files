@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rUH2u0mNsqj7YrMt_X7b">
-    <mxGraphModel dx="1906" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1549" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,40 +14,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-3" value="系统指标确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="192" width="131.5" height="49" as="geometry" />
+          <mxGeometry x="80" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-5" value="核心模块开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82" y="275" width="130" height="50" as="geometry" />
+          <mxGeometry x="80" y="280" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-6" value="DCVC视频压缩编码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="81" y="360" width="132" height="49" as="geometry" />
+          <mxGeometry x="80" y="360" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="抗干扰物理层传输算法设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="73" y="585" width="150" height="49" as="geometry" />
+          <mxGeometry x="70" y="590" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-9" target="VJ6Af0bl9wwzcT1XQdpL-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-9" value="USRP无线收发联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="74" y="680" width="148.75" height="49" as="geometry" />
+          <mxGeometry x="70" y="680" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-11" target="VJ6Af0bl9wwzcT1XQdpL-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-11" value="5G中转与透明转发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="73" y="880" width="150.06" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-12" value="后方视频解码与自适应抽帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="495" y="61" width="252" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-14" value="重建效果验证&#xa;（完整度、耗时、可视化效果）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="237" width="252" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-15" value="视觉大模型分析与风险标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="546" y="362" width="252" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-16" value="端到端原型系统集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="461" width="204" height="49" as="geometry" />
+          <mxGeometry x="70" y="880" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-88" target="VJ6Af0bl9wwzcT1XQdpL-2">
           <mxGeometry relative="1" as="geometry">
@@ -87,25 +75,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-53" value="压缩效果验证&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（压缩比≥2000:1、码率≤0.6 Mbps）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55.5" y="460" width="184" height="80" as="geometry" />
+          <mxGeometry x="60" y="460" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-55" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="239.5" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-56" target="VJ6Af0bl9wwzcT1XQdpL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-56" value="链路可靠性验证&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（传输速率、抗干扰指标达标）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="65.25" y="760" width="165.5" height="80" as="geometry" />
+          <mxGeometry x="70" y="760" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-59" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230.75" y="670" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-62" value="自适应抽帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338.25" y="110" width="131.5" height="49" as="geometry" />
+          <mxGeometry x="340" y="110" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-64" value="COLMAP三维重建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="190" width="132" height="49" as="geometry" />
+          <mxGeometry x="340" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-62" target="VJ6Af0bl9wwzcT1XQdpL-64">
           <mxGeometry relative="1" as="geometry">
@@ -130,31 +118,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-69" value="重建效果验证&lt;div&gt;（重建完整度、每平方公里重建时间达标）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="270" width="184" height="80" as="geometry" />
+          <mxGeometry x="310" y="270" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-75" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="495" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-76" value="智能识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="341.25" y="387" width="124" height="49" as="geometry" />
+          <mxGeometry x="340" y="390" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-78" target="VJ6Af0bl9wwzcT1XQdpL-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-78" value="端到端原型系统集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="339.25" y="470" width="129" height="49" as="geometry" />
+          <mxGeometry x="340" y="470" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-80" target="VJ6Af0bl9wwzcT1XQdpL-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-80" value="原型验证平台实物联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338.25" y="550" width="131.5" height="49" as="geometry" />
+          <mxGeometry x="340" y="550" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-81" target="VJ6Af0bl9wwzcT1XQdpL-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-81" value="工程化部署评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338.75" y="630" width="130" height="50" as="geometry" />
+          <mxGeometry x="340" y="630" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-76" target="VJ6Af0bl9wwzcT1XQdpL-78">
           <mxGeometry relative="1" as="geometry">
@@ -165,19 +153,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-84" value="应用价值与商业化分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="337.75" y="711" width="131.5" height="49" as="geometry" />
+          <mxGeometry x="340" y="710" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-85" target="VJ6Af0bl9wwzcT1XQdpL-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-85" value="工程化部署评估&#xa;（Orin平台、5G专网、应急通信网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="339" y="790" width="130" height="50" as="geometry" />
+          <mxGeometry x="340" y="790" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-86" value="研发结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="343.25" y="884.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-88" value="研发启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="87.37" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
