@@ -150,7 +150,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-53" value="压缩效果验证&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（压缩比≥2000:1、码率≤0.6 Mbps）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="55" y="430" width="184" height="80" as="geometry" />
+          <mxGeometry x="55.5" y="460" width="184" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
