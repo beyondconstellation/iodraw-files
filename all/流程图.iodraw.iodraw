@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="rUH2u0mNsqj7YrMt_X7b">
-    <mxGraphModel dx="1033" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,31 +38,31 @@
           <mxGeometry x="73" y="880" width="150.06" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-12" value="后方视频解码与自适应抽帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1100" width="252" height="49" as="geometry" />
+          <mxGeometry x="447" y="-11" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-13" value="COLMAP三维重建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="57" y="1318" width="182" height="49" as="geometry" />
+          <mxGeometry x="466" y="97" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-14" value="重建效果验证&#xa;（完整度、耗时、可视化效果）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="1417" width="252" height="84" as="geometry" />
+          <mxGeometry x="431" y="196" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-15" value="视觉大模型分析与风险标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="22" y="1573" width="252" height="49" as="geometry" />
+          <mxGeometry x="431" y="352" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-16" value="端到端原型系统集成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="46" y="1672" width="204" height="49" as="geometry" />
+          <mxGeometry x="455" y="451" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-17" value="原型验证平台实物联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="1770" width="220" height="49" as="geometry" />
+          <mxGeometry x="447" y="549" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-18" value="工程化部署评估&#xa;（Orin平台、5G专网、应急通信网络）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="21" y="1869" width="253" height="84" as="geometry" />
+          <mxGeometry x="430" y="648" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-19" value="应用价值与商业化分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="38" y="2002" width="220" height="49" as="geometry" />
+          <mxGeometry x="447" y="781" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-20" value="研发结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="86" y="2101" width="124" height="49" as="geometry" />
+          <mxGeometry x="495" y="880" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-1" target="VJ6Af0bl9wwzcT1XQdpL-2">
           <mxGeometry relative="1" as="geometry">
