@@ -34,7 +34,7 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-9" value="USRP无线收发联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="680" width="148.75" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-11">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-11" target="VJ6Af0bl9wwzcT1XQdpL-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="69" as="targetPoint" />
           </mxGeometry>
@@ -161,11 +161,6 @@
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-59" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230.75" y="670" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="VJ6Af0bl9wwzcT1XQdpL-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="371.5" y="61" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-62" target="VJ6Af0bl9wwzcT1XQdpL-63">
           <mxGeometry relative="1" as="geometry" />
