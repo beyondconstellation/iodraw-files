@@ -26,10 +26,10 @@
           <mxGeometry x="72" y="360" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="抗干扰物理层传输算法设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="585" width="150" height="49" as="geometry" />
+          <mxGeometry x="73" y="585" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-9" value="USRP无线收发联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="866" width="192" height="49" as="geometry" />
+          <mxGeometry x="51.25" y="680" width="148.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-10" value="链路可靠性验证&#xa;（误码率、丢包率、恢复率）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="22" y="965" width="252" height="84" as="geometry" />
