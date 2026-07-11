@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-2" value="应用场景与&#xa;需求分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="83" y="100" width="129" height="49" as="geometry" />
+          <mxGeometry x="83" y="109" width="129" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-3" target="VJ6Af0bl9wwzcT1XQdpL-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-3" value="系统指标确定" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="81.5" y="190" width="131.5" height="49" as="geometry" />
+          <mxGeometry x="81.5" y="192" width="131.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-5" value="核心模块开发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="82" y="280" width="130" height="50" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="337.25" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-88" value="研发启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="88.37" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="87.37" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
