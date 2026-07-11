@@ -28,6 +28,9 @@
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-8" value="抗干扰物理层传输算法设计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="73" y="585" width="150" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-9" target="VJ6Af0bl9wwzcT1XQdpL-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-9" value="USRP无线收发联调" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="74" y="680" width="148.75" height="49" as="geometry" />
         </mxCell>
@@ -151,7 +154,7 @@
           <mxGeometry x="239.5" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-56" value="链路可靠性验证&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（传输速率、抗干扰指标达标）&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="750" width="147" height="80" as="geometry" />
+          <mxGeometry x="74.5" y="760" width="165.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
