@@ -74,13 +74,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-6">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-6" target="VJ6Af0bl9wwzcT1XQdpL-53">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="146.5" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-27" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="VJ6Af0bl9wwzcT1XQdpL-8">
+        <mxCell id="VJ6Af0bl9wwzcT1XQdpL-27" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VJ6Af0bl9wwzcT1XQdpL-53" target="VJ6Af0bl9wwzcT1XQdpL-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="146.5" y="514" as="sourcePoint" />
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VJ6Af0bl9wwzcT1XQdpL-53" value="压缩效果验证&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（压缩比≥2000:1、码率≤0.6 Mbps）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="440" width="184" height="80" as="geometry" />
+          <mxGeometry x="57" y="440" width="184" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
